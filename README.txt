@@ -1,0 +1,1 @@
+Estos datos hay que copiarlos dentro de /home/monitorgsm
