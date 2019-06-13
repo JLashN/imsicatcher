@@ -1,0 +1,2 @@
+1869900000.0 56K captura.txt
+0816100000.0 0 captura.txt

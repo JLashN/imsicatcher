@@ -1,0 +1,9 @@
+Pasos:
+    -Borrar carpeta build "rm -rf build"
+    -Crear carpeta build "mkdir build"
+    -Hacer cmake "cd build && cmake .."
+    -Hacer make (Si se ha hecho bien el cmake) "make -j8"
+    -"sudo make install"
+    -Copiar archivo /build/lib/examples/pdsch_ue y /build/lib/examples/cell_search a /FinalLte (sobreescribir)
+    -Cambiar la contraseña de root en /FinalLte/script.sh
+    -Ejecutar

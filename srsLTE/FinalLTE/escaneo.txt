@@ -1,0 +1,911 @@
+Opening RF device...
+Opening USRP with args: 
+Opening bladeRF...
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 791000000
+[  0/299]: EARFCN 6150 Freq. 791.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 791099976
+[  1/299]: EARFCN 6151 Freq. 791.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 791200012
+[  2/299]: EARFCN 6152 Freq. 791.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 791299988
+[  3/299]: EARFCN 6153 Freq. 791.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 791400022
+[  4/299]: EARFCN 6154 Freq. 791.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 791500000
+[  5/299]: EARFCN 6155 Freq. 791.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 791599976
+[  6/299]: EARFCN 6156 Freq. 791.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 791700010
+[  7/299]: EARFCN 6157 Freq. 791.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 791799988
+[  8/299]: EARFCN 6158 Freq. 791.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 791900022
+[  9/299]: EARFCN 6159 Freq. 791.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 792000000
+[ 10/299]: EARFCN 6160 Freq. 792.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 792099976
+[ 11/299]: EARFCN 6161 Freq. 792.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 792200010
+[ 12/299]: EARFCN 6162 Freq. 792.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 792299988
+[ 13/299]: EARFCN 6163 Freq. 792.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 792400022
+[ 14/299]: EARFCN 6164 Freq. 792.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 792499998
+[ 15/299]: EARFCN 6165 Freq. 792.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 792599976
+[ 16/299]: EARFCN 6166 Freq. 792.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 792700010
+[ 17/299]: EARFCN 6167 Freq. 792.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 792799986
+[ 18/299]: EARFCN 6168 Freq. 792.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 792900022
+[ 19/299]: EARFCN 6169 Freq. 792.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 792999998
+[ 20/299]: EARFCN 6170 Freq. 793.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 793099974
+[ 21/299]: EARFCN 6171 Freq. 793.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 793200010
+[ 22/299]: EARFCN 6172 Freq. 793.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 793299986
+[ 23/299]: EARFCN 6173 Freq. 793.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 793400024
+[ 24/299]: EARFCN 6174 Freq. 793.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 793499998
+[ 25/299]: EARFCN 6175 Freq. 793.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 793599974
+[ 26/299]: EARFCN 6176 Freq. 793.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 793700012
+[ 27/299]: EARFCN 6177 Freq. 793.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 793799986
+[ 28/299]: EARFCN 6178 Freq. 793.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 793900024
+[ 29/299]: EARFCN 6179 Freq. 793.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 793999998
+[ 30/299]: EARFCN 6180 Freq. 794.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 794099974
+[ 31/299]: EARFCN 6181 Freq. 794.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 794200012
+[ 32/299]: EARFCN 6182 Freq. 794.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 794299986
+[ 33/299]: EARFCN 6183 Freq. 794.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 794400024
+[ 34/299]: EARFCN 6184 Freq. 794.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 794500000
+[ 35/299]: EARFCN 6185 Freq. 794.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 794599974
+[ 36/299]: EARFCN 6186 Freq. 794.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 794700012
+[ 37/299]: EARFCN 6187 Freq. 794.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 794799988
+[ 38/299]: EARFCN 6188 Freq. 794.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 794900024
+[ 39/299]: EARFCN 6189 Freq. 794.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 795000000
+[ 40/299]: EARFCN 6190 Freq. 795.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 795099974
+[ 41/299]: EARFCN 6191 Freq. 795.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 795200012
+[ 42/299]: EARFCN 6192 Freq. 795.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 795299988
+[ 43/299]: EARFCN 6193 Freq. 795.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 795400022
+[ 44/299]: EARFCN 6194 Freq. 795.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 795500000
+[ 45/299]: EARFCN 6195 Freq. 795.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 795599976
+[ 46/299]: EARFCN 6196 Freq. 795.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 795700012
+[ 47/299]: EARFCN 6197 Freq. 795.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 795799988
+[ 48/299]: EARFCN 6198 Freq. 795.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 795900022
+[ 49/299]: EARFCN 6199 Freq. 795.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 796000000
+[ 50/299]: EARFCN 6200 Freq. 796.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 796099976
+[ 51/299]: EARFCN 6201 Freq. 796.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 796200010
+[ 52/299]: EARFCN 6202 Freq. 796.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 796299988
+[ 53/299]: EARFCN 6203 Freq. 796.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 796400022
+[ 54/299]: EARFCN 6204 Freq. 796.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 796499998
+[ 55/299]: EARFCN 6205 Freq. 796.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 796599976
+[ 56/299]: EARFCN 6206 Freq. 796.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 796700010
+[ 57/299]: EARFCN 6207 Freq. 796.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 796799988
+[ 58/299]: EARFCN 6208 Freq. 796.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 796900022
+[ 59/299]: EARFCN 6209 Freq. 796.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 796999998
+[ 60/299]: EARFCN 6210 Freq. 797.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 797099976
+[ 61/299]: EARFCN 6211 Freq. 797.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 797200010
+[ 62/299]: EARFCN 6212 Freq. 797.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 797299986
+[ 63/299]: EARFCN 6213 Freq. 797.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 797400022
+[ 64/299]: EARFCN 6214 Freq. 797.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 797499998
+[ 65/299]: EARFCN 6215 Freq. 797.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 797599974
+[ 66/299]: EARFCN 6216 Freq. 797.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 797700010
+[ 67/299]: EARFCN 6217 Freq. 797.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 797799986
+[ 68/299]: EARFCN 6218 Freq. 797.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 797900024
+[ 69/299]: EARFCN 6219 Freq. 797.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 797999998
+[ 70/299]: EARFCN 6220 Freq. 798.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 798099974
+[ 71/299]: EARFCN 6221 Freq. 798.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 798200012
+[ 72/299]: EARFCN 6222 Freq. 798.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 798299986
+[ 73/299]: EARFCN 6223 Freq. 798.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 798400024
+[ 74/299]: EARFCN 6224 Freq. 798.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 798499998
+[ 75/299]: EARFCN 6225 Freq. 798.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 798599974
+[ 76/299]: EARFCN 6226 Freq. 798.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 798700012
+[ 77/299]: EARFCN 6227 Freq. 798.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 798799986
+[ 78/299]: EARFCN 6228 Freq. 798.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 798900024
+[ 79/299]: EARFCN 6229 Freq. 798.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 799000000
+[ 80/299]: EARFCN 6230 Freq. 799.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 799099974
+[ 81/299]: EARFCN 6231 Freq. 799.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 799200012
+[ 82/299]: EARFCN 6232 Freq. 799.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 799299988
+[ 83/299]: EARFCN 6233 Freq. 799.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 799400024
+[ 84/299]: EARFCN 6234 Freq. 799.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 799500000
+[ 85/299]: EARFCN 6235 Freq. 799.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 799599976
+[ 86/299]: EARFCN 6236 Freq. 799.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 799700012
+[ 87/299]: EARFCN 6237 Freq. 799.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 799799988
+[ 88/299]: EARFCN 6238 Freq. 799.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 799900022
+[ 89/299]: EARFCN 6239 Freq. 799.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 800000000
+[ 90/299]: EARFCN 6240 Freq. 800.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 800099976
+[ 91/299]: EARFCN 6241 Freq. 800.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 800200012
+[ 92/299]: EARFCN 6242 Freq. 800.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 800299988
+[ 93/299]: EARFCN 6243 Freq. 800.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 800400022
+[ 94/299]: EARFCN 6244 Freq. 800.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 800500000
+[ 95/299]: EARFCN 6245 Freq. 800.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 800599976
+[ 96/299]: EARFCN 6246 Freq. 800.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 800700010
+[ 97/299]: EARFCN 6247 Freq. 800.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 800799988
+[ 98/299]: EARFCN 6248 Freq. 800.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 800900022
+[ 99/299]: EARFCN 6249 Freq. 800.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 800999998
+[100/299]: EARFCN 6250 Freq. 801.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 801099976
+[101/299]: EARFCN 6251 Freq. 801.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 801200010
+[102/299]: EARFCN 6252 Freq. 801.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 801299986
+[103/299]: EARFCN 6253 Freq. 801.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 801400022
+[104/299]: EARFCN 6254 Freq. 801.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 801499998
+[105/299]: EARFCN 6255 Freq. 801.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 801599976
+[106/299]: EARFCN 6256 Freq. 801.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 801700010
+[107/299]: EARFCN 6257 Freq. 801.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 801799986
+[108/299]: EARFCN 6258 Freq. 801.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 801900022
+[109/299]: EARFCN 6259 Freq. 801.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 801999998
+[110/299]: EARFCN 6260 Freq. 802.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 802099974
+[111/299]: EARFCN 6261 Freq. 802.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 802200010
+[112/299]: EARFCN 6262 Freq. 802.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 802299986
+[113/299]: EARFCN 6263 Freq. 802.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 802400024
+[114/299]: EARFCN 6264 Freq. 802.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 802499998
+[115/299]: EARFCN 6265 Freq. 802.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 802599974
+[116/299]: EARFCN 6266 Freq. 802.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 802700012
+[117/299]: EARFCN 6267 Freq. 802.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 802799986
+[118/299]: EARFCN 6268 Freq. 802.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 802900024
+[119/299]: EARFCN 6269 Freq. 802.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 803000000
+[120/299]: EARFCN 6270 Freq. 803.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 803099974
+[121/299]: EARFCN 6271 Freq. 803.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 803200012
+[122/299]: EARFCN 6272 Freq. 803.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 803299986
+[123/299]: EARFCN 6273 Freq. 803.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 803400024
+[124/299]: EARFCN 6274 Freq. 803.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 803500000
+[125/299]: EARFCN 6275 Freq. 803.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 803599974
+[126/299]: EARFCN 6276 Freq. 803.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 803700012
+[127/299]: EARFCN 6277 Freq. 803.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 803799988
+[128/299]: EARFCN 6278 Freq. 803.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 803900024
+[129/299]: EARFCN 6279 Freq. 803.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 804000000
+[130/299]: EARFCN 6280 Freq. 804.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 804099976
+[131/299]: EARFCN 6281 Freq. 804.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 804200012
+[132/299]: EARFCN 6282 Freq. 804.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 804299988
+[133/299]: EARFCN 6283 Freq. 804.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 804400022
+[134/299]: EARFCN 6284 Freq. 804.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 804500000
+[135/299]: EARFCN 6285 Freq. 804.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 804599976
+[136/299]: EARFCN 6286 Freq. 804.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 804700010
+[137/299]: EARFCN 6287 Freq. 804.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 804799988
+[138/299]: EARFCN 6288 Freq. 804.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 804900022
+[139/299]: EARFCN 6289 Freq. 804.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 805000000
+[140/299]: EARFCN 6290 Freq. 805.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 805099976
+[141/299]: EARFCN 6291 Freq. 805.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 805200010
+[142/299]: EARFCN 6292 Freq. 805.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 805299988
+[143/299]: EARFCN 6293 Freq. 805.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 805400022
+[144/299]: EARFCN 6294 Freq. 805.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 805499998
+[145/299]: EARFCN 6295 Freq. 805.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 805599976
+[146/299]: EARFCN 6296 Freq. 805.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 805700010
+[147/299]: EARFCN 6297 Freq. 805.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 805799986
+[148/299]: EARFCN 6298 Freq. 805.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 805900022
+[149/299]: EARFCN 6299 Freq. 805.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 805999998
+[150/299]: EARFCN 6300 Freq. 806.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 806099974
+[151/299]: EARFCN 6301 Freq. 806.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 806200010
+[152/299]: EARFCN 6302 Freq. 806.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 806299986
+[153/299]: EARFCN 6303 Freq. 806.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 806400024
+[154/299]: EARFCN 6304 Freq. 806.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 806499998
+[155/299]: EARFCN 6305 Freq. 806.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 806599974
+[156/299]: EARFCN 6306 Freq. 806.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 806700010
+[157/299]: EARFCN 6307 Freq. 806.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 806799986
+[158/299]: EARFCN 6308 Freq. 806.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 806900024
+[159/299]: EARFCN 6309 Freq. 806.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 806999998
+[160/299]: EARFCN 6310 Freq. 807.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 807099974
+[161/299]: EARFCN 6311 Freq. 807.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 807200012
+[162/299]: EARFCN 6312 Freq. 807.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 807299986
+[163/299]: EARFCN 6313 Freq. 807.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 807400024
+[164/299]: EARFCN 6314 Freq. 807.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 807500000
+[165/299]: EARFCN 6315 Freq. 807.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 807599974
+[166/299]: EARFCN 6316 Freq. 807.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 807700012
+[167/299]: EARFCN 6317 Freq. 807.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 807799988
+[168/299]: EARFCN 6318 Freq. 807.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 807900024
+[169/299]: EARFCN 6319 Freq. 807.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 808000000
+[170/299]: EARFCN 6320 Freq. 808.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 808099974
+[171/299]: EARFCN 6321 Freq. 808.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 808200012
+[172/299]: EARFCN 6322 Freq. 808.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 808299988
+[173/299]: EARFCN 6323 Freq. 808.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 808400024
+[174/299]: EARFCN 6324 Freq. 808.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 808500000
+[175/299]: EARFCN 6325 Freq. 808.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 808599976
+[176/299]: EARFCN 6326 Freq. 808.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 808700012
+[177/299]: EARFCN 6327 Freq. 808.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 808799988
+[178/299]: EARFCN 6328 Freq. 808.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 808900022
+[179/299]: EARFCN 6329 Freq. 808.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 809000000
+[180/299]: EARFCN 6330 Freq. 809.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 809099976
+[181/299]: EARFCN 6331 Freq. 809.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 809200010
+[182/299]: EARFCN 6332 Freq. 809.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 809299988
+[183/299]: EARFCN 6333 Freq. 809.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 809400022
+[184/299]: EARFCN 6334 Freq. 809.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 809499998
+[185/299]: EARFCN 6335 Freq. 809.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 809599976
+[186/299]: EARFCN 6336 Freq. 809.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 809700010
+[187/299]: EARFCN 6337 Freq. 809.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 809799988
+[188/299]: EARFCN 6338 Freq. 809.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 809900022
+[189/299]: EARFCN 6339 Freq. 809.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 809999998
+[190/299]: EARFCN 6340 Freq. 810.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 810099976
+[191/299]: EARFCN 6341 Freq. 810.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 810200010
+[192/299]: EARFCN 6342 Freq. 810.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 810299986
+[193/299]: EARFCN 6343 Freq. 810.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 810400022
+[194/299]: EARFCN 6344 Freq. 810.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 810499998
+[195/299]: EARFCN 6345 Freq. 810.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 810599974
+[196/299]: EARFCN 6346 Freq. 810.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 810700010
+[197/299]: EARFCN 6347 Freq. 810.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 810799986
+[198/299]: EARFCN 6348 Freq. 810.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 810900024
+[199/299]: EARFCN 6349 Freq. 810.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 810999998
+[200/299]: EARFCN 6350 Freq. 811.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 811099974
+[201/299]: EARFCN 6351 Freq. 811.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 811200012
+[202/299]: EARFCN 6352 Freq. 811.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 811299986
+[203/299]: EARFCN 6353 Freq. 811.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 811400024
+[204/299]: EARFCN 6354 Freq. 811.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 811499998
+[205/299]: EARFCN 6355 Freq. 811.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 811599974
+[206/299]: EARFCN 6356 Freq. 811.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 811700012
+[207/299]: EARFCN 6357 Freq. 811.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 811799986
+[208/299]: EARFCN 6358 Freq. 811.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 811900024
+[209/299]: EARFCN 6359 Freq. 811.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 812000000
+[210/299]: EARFCN 6360 Freq. 812.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 812099974
+[211/299]: EARFCN 6361 Freq. 812.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 812200012
+[212/299]: EARFCN 6362 Freq. 812.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 812299988
+[213/299]: EARFCN 6363 Freq. 812.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 812400024
+[214/299]: EARFCN 6364 Freq. 812.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 812500000
+[215/299]: EARFCN 6365 Freq. 812.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 812599974
+[216/299]: EARFCN 6366 Freq. 812.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 812700012
+[217/299]: EARFCN 6367 Freq. 812.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 812799988
+[218/299]: EARFCN 6368 Freq. 812.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 812900022
+[219/299]: EARFCN 6369 Freq. 812.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 813000000
+[220/299]: EARFCN 6370 Freq. 813.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 813099976
+[221/299]: EARFCN 6371 Freq. 813.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 813200012
+[222/299]: EARFCN 6372 Freq. 813.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 813299988
+[223/299]: EARFCN 6373 Freq. 813.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 813400022
+[224/299]: EARFCN 6374 Freq. 813.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 813500000
+[225/299]: EARFCN 6375 Freq. 813.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 813599976
+[226/299]: EARFCN 6376 Freq. 813.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 813700010
+[227/299]: EARFCN 6377 Freq. 813.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 813799988
+[228/299]: EARFCN 6378 Freq. 813.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 813900022
+[229/299]: EARFCN 6379 Freq. 813.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 813999998
+[230/299]: EARFCN 6380 Freq. 814.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 814099976
+[231/299]: EARFCN 6381 Freq. 814.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 814200010
+[232/299]: EARFCN 6382 Freq. 814.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 814299988
+[233/299]: EARFCN 6383 Freq. 814.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 814400022
+[234/299]: EARFCN 6384 Freq. 814.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 814499998
+[235/299]: EARFCN 6385 Freq. 814.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 814599976
+[236/299]: EARFCN 6386 Freq. 814.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 814700010
+[237/299]: EARFCN 6387 Freq. 814.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 814799986
+[238/299]: EARFCN 6388 Freq. 814.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 814900022
+[239/299]: EARFCN 6389 Freq. 814.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 814999998
+[240/299]: EARFCN 6390 Freq. 815.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 815099974
+[241/299]: EARFCN 6391 Freq. 815.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 815200010
+[242/299]: EARFCN 6392 Freq. 815.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 815299986
+[243/299]: EARFCN 6393 Freq. 815.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 815400024
+[244/299]: EARFCN 6394 Freq. 815.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 815499998
+[245/299]: EARFCN 6395 Freq. 815.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 815599974
+[246/299]: EARFCN 6396 Freq. 815.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 815700012
+[247/299]: EARFCN 6397 Freq. 815.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 815799986
+[248/299]: EARFCN 6398 Freq. 815.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 815900024
+[249/299]: EARFCN 6399 Freq. 815.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 816000000
+[250/299]: EARFCN 6400 Freq. 816.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 816099974
+[251/299]: EARFCN 6401 Freq. 816.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+Found CELL ID 0. 25 PRB, 4 ports
+set RX frequency to 816200012
+[252/299]: EARFCN 6402 Freq. 816.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 816299986
+[253/299]: EARFCN 6403 Freq. 816.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 816400024
+[254/299]: EARFCN 6404 Freq. 816.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 816500000
+[255/299]: EARFCN 6405 Freq. 816.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 816599974
+[256/299]: EARFCN 6406 Freq. 816.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 816700012
+[257/299]: EARFCN 6407 Freq. 816.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 816799988
+[258/299]: EARFCN 6408 Freq. 816.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 816900024
+[259/299]: EARFCN 6409 Freq. 816.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 817000000
+[260/299]: EARFCN 6410 Freq. 817.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 817099976
+[261/299]: EARFCN 6411 Freq. 817.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 817200012
+[262/299]: EARFCN 6412 Freq. 817.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 817299988
+[263/299]: EARFCN 6413 Freq. 817.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 817400022
+[264/299]: EARFCN 6414 Freq. 817.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 817500000
+[265/299]: EARFCN 6415 Freq. 817.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 817599976
+[266/299]: EARFCN 6416 Freq. 817.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 817700010
+[267/299]: EARFCN 6417 Freq. 817.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 817799988
+[268/299]: EARFCN 6418 Freq. 817.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 817900022
+[269/299]: EARFCN 6419 Freq. 817.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 818000000
+[270/299]: EARFCN 6420 Freq. 818.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 818099976
+[271/299]: EARFCN 6421 Freq. 818.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 818200010
+[272/299]: EARFCN 6422 Freq. 818.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 818299988
+[273/299]: EARFCN 6423 Freq. 818.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 818400022
+[274/299]: EARFCN 6424 Freq. 818.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 818499998
+[275/299]: EARFCN 6425 Freq. 818.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 818599976
+[276/299]: EARFCN 6426 Freq. 818.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 818700010
+[277/299]: EARFCN 6427 Freq. 818.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 818799986
+[278/299]: EARFCN 6428 Freq. 818.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 818900022
+[279/299]: EARFCN 6429 Freq. 818.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 818999998
+[280/299]: EARFCN 6430 Freq. 819.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 819099976
+[281/299]: EARFCN 6431 Freq. 819.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 819200010
+[282/299]: EARFCN 6432 Freq. 819.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 819299986
+[283/299]: EARFCN 6433 Freq. 819.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 819400024
+[284/299]: EARFCN 6434 Freq. 819.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 819499998
+[285/299]: EARFCN 6435 Freq. 819.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 819599974
+[286/299]: EARFCN 6436 Freq. 819.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 819700010
+[287/299]: EARFCN 6437 Freq. 819.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 819799986
+[288/299]: EARFCN 6438 Freq. 819.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 819900024
+[289/299]: EARFCN 6439 Freq. 819.90 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 819999998
+[290/299]: EARFCN 6440 Freq. 820.00 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 820099974
+[291/299]: EARFCN 6441 Freq. 820.10 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 820200012
+[292/299]: EARFCN 6442 Freq. 820.20 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 820299986
+[293/299]: EARFCN 6443 Freq. 820.30 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 820400024
+[294/299]: EARFCN 6444 Freq. 820.40 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 820500000
+[295/299]: EARFCN 6445 Freq. 820.50 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 820599974
+[296/299]: EARFCN 6446 Freq. 820.60 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 820700012
+[297/299]: EARFCN 6447 Freq. 820.70 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+set RX frequency to 820799986
+[298/299]: EARFCN 6448 Freq. 820.80 MHz looking for PSS.
+Set RX sampling rate 1.92 Mhz, filter BW: 1.92 Mhz
+
+
+Found 1 cells
+Found CELL 816.1 MHz, EARFCN=6401, PHYID=0, 25 PRB, 4 ports, PSS power=-5.5 dBm
+
+Bye

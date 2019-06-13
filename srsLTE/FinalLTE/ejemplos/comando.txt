@@ -1,0 +1,2 @@
+./cell_search -b 3
+./pdsch_ue -f frecuencia -r fffe
